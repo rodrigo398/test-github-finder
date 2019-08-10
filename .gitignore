@@ -4,12 +4,16 @@
 /node_modules
 /.pnp
 .pnp.js
+/.netlify
 
 # testing
 /coverage
 
 # production
 /build
+
+#notes
+notes.txt
 
 # misc
 .DS_Store
@@ -21,3 +25,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.project
